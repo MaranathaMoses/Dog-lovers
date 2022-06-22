@@ -1,0 +1,69 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.swimming{
+  width: 37.5rem;
+  height:25rem;
+}
+
+.web-dog {
+  width: 37.5rem;
+  height: 25.571rem;
+}
+
+.intro {
+  width: 48%;
+  text-align: left;
+  float: left;
+  line-height: 2;
+  margin-left: 1.875rem;
+  margin-right: 0.625rem;
+}
+
+.like {
+  padding-top: 1.875rem;
+  width: 50%;
+  text-align: left;
+  float: right;
+  line-height: 2
+}
+
+.hate {
+  width: 20%;
+  text-align: left;
+  float: left;
+  line-height: 2;
+  margin-left: 23.125rem;
+  padding-top: 1.875rem;
+}
+
+.dress {
+  width: 37.5rem;
+  height: 27.103rem;
+  padding-left: 2.5rem;
+}
+
+.fig {
+  padding-left: 39.688rem;
+}
+
+.h3 {
+  margin-left: 1.25rem;
+}
+
+.img {
+
+  border-radius: 6.25rem;
+  width: 2.5rem;
+  border: 0.3125rem solid;
+}
+
+.creator {
+padding-right: 66.25rem;
+float: right;
+}
+
+.footer {
+  padding-top: 50px;
+}
